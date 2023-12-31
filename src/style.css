@@ -6,21 +6,29 @@
 
 
 h1{
-  @apply text-black/90 no-underline text-4xl leading-normal font-black
+  @apply text-black/90 no-underline lg:text-4xl lg:leading-normal font-black text-3xl leading-tight
 }
 
 .content{
-  @apply text-black/70 text-[17px] leading-normal
+  @apply text-black/70 text-[15px] leading-normal
 }
 
 .note{
-  @apply text-black/50 text-[15px] leading-normal
+  @apply text-black/50 text-[13px] leading-normal
 }
 
 .info{
-  @apply text-black/30 text-[13px] leading-normal
+  @apply text-black/30 text-[12px] leading-normal
 }
 
 a{
-  @apply underline underline-offset-4 transition-all p-1 hover:bg-black/10 hover:rounded-md
+  @apply underline underline-offset-4 transition-all p-1 hover:rounded-md
+}
+
+.dialog-l{
+  @apply max-w-[288px] lg:max-w-lg bg-red-500/5 p-3 rounded-xl border border-black/5 content shadow-sm
+}
+
+.dialog-r{
+  @apply max-w-[288px] lg:max-w-lg bg-blue-500/5 p-3 rounded-xl border border-black/5 content shadow-sm
 }
