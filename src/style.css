@@ -6,7 +6,7 @@
 
 
 h1{
-  @apply text-black/90 no-underline lg:text-4xl lg:leading-normal font-black text-3xl leading-tight
+  @apply text-black/90 no-underline lg:text-4xl lg:leading-normal font-bold text-3xl leading-tight
 }
 
 .content{
