@@ -351,7 +351,7 @@ import { ChatBubbleLeftRightIcon } from "@heroicons/vue/24/solid";
     <footer
       class="fixed bottom-0 w-full px-10 h-6 flex items-center border-t bg-[#fff9f1] border-[#f2ebe3]"
     >
-      <p class="info">Design & Develop by Bluepikachu</p>
+    <p class="info">Design & Develop by <a href="https://okjk.co/pq1fAu" class=" no-underline">Bluepikachu</a></p>
     </footer>
   </section>
 </template>
