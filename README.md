@@ -23,6 +23,6 @@ npm run build
 
 ## 相关链接
 
-- **原文地址**: [](https://www.bilibili.com/read/cv24202714/?spm_id_from=333.1007.0.0)
-- **电影信息**: [](https://movie.douban.com/subject/1291838/)
-- **Bluepikachu**: [](https://bluepika.life/about)
+- **原文地址**: [Bilibili 专栏](https://www.bilibili.com/read/cv24202714/?spm_id_from=333.1007.0.0)
+- **电影信息**: [《红猪》豆瓣简介](https://movie.douban.com/subject/1291838/)
+- **设计开发**: [Bluepikachu](https://bluepika.life/about)
