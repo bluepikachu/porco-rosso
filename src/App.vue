@@ -352,9 +352,10 @@ import { ChatBubbleLeftRightIcon } from "@heroicons/vue/24/solid";
     </div>
 
     <footer
-      class="fixed bottom-0 w-full px-10 h-6 flex items-center border-t bg-[#fff9f1] border-[#f2ebe3]"
+      class="fixed bottom-0 w-full px-10 h-6 flex items-center justify-between border-t bg-[#fff9f1] border-[#f2ebe3]"
     >
-    <p class="info">Design & Develop by <a href="https://okjk.co/pq1fAu" class=" no-underline">Bluepikachu</a></p>
+    <p class="info">Design & Develop by <a href="https://bluepika.life/about" class=" no-underline hover:underline">Bluepikachu</a></p>
+    <p class="info"><a href="https://github.com/bluepikachu/porco-rossohttps://github.com/bluepikachu/porco-rosso" class=" no-underline hover:underline">GitHub</a></p>
     </footer>
   </section>
 </template>
